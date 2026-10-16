@@ -1,0 +1,62 @@
+[
+  {
+    "id": "122004c6-2fc6-464d-b451-282265193447",
+    "timestamp": "2026-10-16T22:34:12.868Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "inundacion",
+    "message": "ALERTA DE PRUEBA: posible inundación",
+    "rain_mm_h": 95,
+    "water_level_cm": 88
+  },
+  {
+    "id": "91a0c05e-b0da-47eb-8949-c4d722f556c9",
+    "timestamp": "2026-10-16T22:34:12.167Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "deslave",
+    "message": "ALERTA DE PRUEBA: posible deslave",
+    "rain_mm_h": 82,
+    "water_level_cm": 45
+  },
+  {
+    "id": "b625b0ec-b933-4803-bb5d-86be5ba4a155",
+    "timestamp": "2026-10-16T22:34:11.670Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "normal",
+    "message": "Condiciones simuladas normales",
+    "rain_mm_h": 18,
+    "water_level_cm": 32
+  },
+  {
+    "id": "04445322-c4b1-414d-bc5b-a5643588585b",
+    "timestamp": "2026-10-16T22:20:40.282Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "normal",
+    "message": "Condiciones simuladas normales",
+    "rain_mm_h": 18,
+    "water_level_cm": 32
+  },
+  {
+    "id": "e0dd346a-d52f-4238-88ce-6ffded9866ae",
+    "timestamp": "2026-10-16T22:20:37.972Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "deslave",
+    "message": "ALERTA DE PRUEBA: posible deslave",
+    "rain_mm_h": 82,
+    "water_level_cm": 45
+  },
+  {
+    "id": "c9e25f3b-b792-45b4-9e25-86988e068be8",
+    "timestamp": "2026-10-16T22:20:24.035Z",
+    "test": true,
+    "location": "Estelí, Nicaragua",
+    "alert_type": "inundacion",
+    "message": "ALERTA DE PRUEBA: posible inundación",
+    "rain_mm_h": 95,
+    "water_level_cm": 88
+  }
+]
