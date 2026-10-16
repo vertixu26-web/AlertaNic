@@ -1,0 +1,12 @@
+{
+  "name": "alertas-comunitarias-demo",
+  "version": "1.0.0",
+  "description": "Panel y receptor de alertas simuladas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
